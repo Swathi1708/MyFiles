@@ -37,5 +37,6 @@ finetuning_datasets
       ├── train_final
       └── test_final
    
+![Physics](https://github.com/Swathi1708/MyFiles/assets/153712903/83ee993b-47c0-4917-afa7-bb4d7275e6f0)
 
 
